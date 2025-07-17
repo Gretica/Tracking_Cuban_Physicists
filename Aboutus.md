@@ -17,7 +17,7 @@ Welcome to the team page! Here you can learn about the authors behind the projec
   <div style="text-align: center; width: 30%;">
     <img src="assets/images/IMG_20200112_212532.jpg" alt="Author 2" style="width: 100%; border-radius: 8px;" />
     <h3>Gretel Quintero Angulo</h3>
-    <p>Brief description about Author 2 and their role in the project.</p>
+    <p> Gretel plays a key role in organizing the project’s structure and online presence, ensuring that its goals and findings are accessible to a broad audience. Her contributions include the development of the project´s webpage, data analysis and interpretation, helping to refine the research focus and draw meaningful insights from emerging patterns.</p>
   </div>
   <div style="text-align: center; width: 30%;">
     <img src="assets/images/author3.jpg" alt="Author 3" style="width: 100%; border-radius: 8px;" />
