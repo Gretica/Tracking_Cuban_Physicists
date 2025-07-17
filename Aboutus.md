@@ -12,7 +12,7 @@ Welcome to the team page! Here you can learn about the authors behind the projec
     <p>Brief description about Author 1 and their role in the project.</p>
   </div>
   <div style="text-align: center; width: 30%;">
-    <img src="assets/images/author2.jpg" alt="Author 2" style="width: 100%; border-radius: 8px;" />
+    <img src="assets/images/20250304_104845.heic" alt="Gretel Quintero Angulo" style="width: 100%; border-radius: 8px;" />
     <h3>Author 2 Name</h3>
     <p>Brief description about Author 2 and their role in the project.</p>
   </div>
