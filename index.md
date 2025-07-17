@@ -8,7 +8,6 @@ This project investigates the academic and professional trajectories of graduate
 
 Through interviews, surveys, and document analysis, the project seeks to build a database that helps identify common patterns. It also aims to compare these trajectories with international experiences to understand how the Cuban context aligns with or differs from global trends. 
 
-If you would like to learn more about the project’s scope, methods, and goals, we invite you to explore the <a href="{{ site.baseurl }}/Project/">Project Overview</a> page.  
-To meet the team behind this initiative, please visit the <a href="{{ site.baseurl }}/Aboutus/">About Us</a> section.
+If you would like to learn more about the project’s scope, methods, and goals, we invite you to explore the <a href="{{ site.baseurl }}/Project/">Project Overview</a> page. To meet the team behind this initiative, please visit the <a href="{{ site.baseurl }}/Aboutus/">About Us</a> section.
 
 If you are a graduate of the Faculty of Physics—formerly known as the School of Physics—at the University of Havana, we warmly invite you to contribute to the project by completing the following survey:
