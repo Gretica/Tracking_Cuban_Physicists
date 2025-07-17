@@ -54,7 +54,7 @@ Our initial data collection has focused on graduates from **2010 to 2024**, usin
 
 These preliminary results offer a **first glimpse** of the project's potential to document and analyze the real-life implications of studying Physics in Cuba.
 
-To explore these early findings in detail, visit the [Promotions 2010–2024](/Promotions_2010_2024/) page.
+To explore these early findings in detail, visit the [Promotions 2010–2024](/Promo_2010_2024/) page.
 
 This early sample will serve as a **foundation for comparison** as more cohorts are incorporated, and as interviews and surveys deepen our understanding of how **identity, gender, and context** shape long-term professional outcomes.
 
