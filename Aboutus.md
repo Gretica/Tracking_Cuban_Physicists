@@ -4,7 +4,9 @@ title: About us
 permalink: /Aboutus/
 ---
 
-## Welcome to the team page! Here you can learn about the authors behind the project.
+## Meet the *cimarrones* behind this project
+
+Get to know the people driving the vision, research, and development of this initiative.
 
 <div style="display: flex; justify-content: space-around; margin-top: 30px;">
   <div style="text-align: center; width: 30%;">
