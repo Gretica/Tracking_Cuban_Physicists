@@ -1,0 +1,9 @@
+---
+layout: default
+title: Analysis of Promotions from 2010 to 2024
+---
+
+This section contains the analysis of the professional and emigrational paths of Physics graduates’ promotions from 2010 to 2024.
+
+*(Content to be added here)*
+
