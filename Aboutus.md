@@ -12,16 +12,16 @@ Welcome to the team page! Here you can learn about the authors behind the projec
   <div style="text-align: center; width: 30%;">
     <img src="assets/images/author1.jpg" alt="Author 1" style="width: 100%; border-radius: 8px;" />
     <h3>Beatriz Rodríguez Hernández</h3>
-    <p>Bety is the creator of the project and developed the original concept and research questions behind it. Her work includes the development of the survey instruments, data analysis strategies, and the interpretation of findings. With a strong commitment to understanding the academic and professional journeys of Physics graduates — particularly from a gender perspective — Bety brings both academic insight and personal motivation to the initiative.</p>
+    <p>Bety is the creator of the project and developed the original concept and research questions behind it. She designed the survey instruments and is deeply involved in the analysis and interpretation of the collected data. Her work focuses on ensuring that the research methods effectively capture the complexities of the academic and professional trajectories studied, enabling meaningful conclusions to be drawn..</p>
   </div>
   <div style="text-align: center; width: 30%;">
     <img src="assets/images/IMG_20200112_212532.jpg" alt="Author 2" style="width: 100%; border-radius: 8px;" />
     <h3>Gretel Quintero Angulo</h3>
-    <p> Gretel plays a key role in organizing the project’s structure and online presence, ensuring that its goals and findings are accessible to a broad audience. Her contributions include the development of the project´s webpage, data analysis and interpretation, helping to refine the research focus and draw meaningful insights from emerging patterns.</p>
+    <p> Gretel plays a key role in organizing the project’s structure and online presence, ensuring that its goals and findings are accessible to a broad audience. She has contributed to shaping the research framework, organizing the project’s resources, and conducting data analysis and interpretation. A core part of her role is refining the methodological approach to guarantee the accuracy and relevance of the findings, ensuring that the data is robustly examined to inform the project’s objectives.</p>
   </div>
   <div style="text-align: center; width: 30%;">
     <img src="assets/images/author3.jpg" alt="Author 3" style="width: 100%; border-radius: 8px;" />
     <h3>Duvier Suárez Fontanella</h3>
-    <p>Brief description about Author 3 and their role in the project.</p>
+    <p>Duvier leads the technical aspects of the project, particularly the methodologies used to process and examine the data. He plays a key role in selecting appropriate metrics and advising on the best strategies for data presentation. His expertise ensures that the data analysis is both rigorous and accessible, turning complex information into clear, actionable insights.</p>
   </div>
 </div>
