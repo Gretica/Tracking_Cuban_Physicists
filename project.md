@@ -6,7 +6,7 @@ permalink: /Project/
 
 <!-- Aquí comienzas a escribir el contenido de la página del proyecto -->
 
-## Project Overview
+<!-- ## Project Overview -->
 ## **Historical Context**
 
 The Faculty of Physics at the University of Havana traces its origins back to the **1962 University Reform**, which led to the creation of the School of Physics as part of the Faculty of Sciences. This marked a turning point, granting Physics recognition as an **independent academic discipline**, distinct from the previously unified specialties of Physical-Mathematical and Physical-Chemical Sciences, which had been present in the university’s curriculum since the early 20th century.
