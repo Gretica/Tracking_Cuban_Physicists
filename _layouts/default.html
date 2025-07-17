@@ -20,3 +20,65 @@
       background-color: #f6efdb;
       padding: 40px 20px;
       box-sizing: border-box;
+      position: fixed;
+      top: 0;
+      bottom: 0;
+      left: 0;
+    }
+
+    nav a {
+      display: block;
+      color: #002b36;
+      text-decoration: none;
+      margin-bottom: 20px;
+      font-weight: bold;
+      font-size: 1.1em;
+    }
+
+    nav a:hover {
+      text-decoration: underline;
+    }
+
+    main {
+      margin-left: 220px;
+      padding: 40px 30px;
+      max-width: 900px;
+    }
+
+    .site-title {
+      font-size: 2.8em;
+      font-weight: bold;
+      margin-bottom: 30px;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 10px;
+    }
+
+    h1, h2, h3 {
+      font-family: 'PT Serif', serif;
+      color: #002b36;
+    }
+
+    footer {
+      text-align: center;
+      margin-top: 60px;
+      font-size: 0.9em;
+      color: #666;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="{{ '/' | relative_url }}">Home</a>
+    <a href="{{ '/analysis' | relative_url }}">2010–2024 Analysis</a>
+    <a href="{{ '/who-we-are' | relative_url }}">Who We Are</a>
+  </nav>
+
+  <main>
+    <div class="site-title">Physics Career Paths in Cuba</div>
+    {{ content }}
+    <footer>
+      &copy; 2024 Physics Career Paths Project
+    </footer>
+  </main>
+</body>
+</html>
