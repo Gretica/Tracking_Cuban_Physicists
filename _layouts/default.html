@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ page.title }} | {{ site.title }}</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background: #f9f9f9;
+      color: #333;
+    }
+    nav {
+      margin-bottom: 20px;
+      text-align: center;
+    }
+    nav a {
+      margin: 0 15px;
+      text-decoration: none;
+      color: #2c3e50;
+      font-weight: bold;
+    }
+    nav a:hover {
+      text-decoration: underline;
+    }
+    header {
+      text-align: center;
+      margin-bottom: 40px;
+    }
+    section {
+      max-width: 800px;
+      margin: auto;
+      line-height: 1.6;
+    }
+  </style>
+</head>
+<body>
+  <nav>
+    <a href="{{ "/" | relative_url }}">Home</a>
+    <a href="{{ "/analysis" | relative_url }}">Promotions from 2010 to 2024</a>
+  </nav>
+
+  <header>
+    <h1>{{ page.title }}</h1>
+  </header>
+
+  <section>
+    {{ content }}
+  </section>
+</body>
+</html>
