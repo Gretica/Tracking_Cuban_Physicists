@@ -12,7 +12,7 @@ Welcome to the team page! Here you can learn about the authors behind the projec
   <div style="text-align: center; width: 30%;">
     <img src="assets/images/IMG_20200112_212532.jpg" alt="Author 1" style="width: 100%; border-radius: 8px;" />
     <h3>Beatriz Rodríguez Hernández</h3>
-    <p>Bety is the creator of the project and developed the original concept and research questions behind it. She designed the survey instruments and is deeply involved in the analysis and interpretation of the collected data. Her work focuses on ensuring that the research methods effectively capture the complexities of the academic and professional trajectories studied, enabling meaningful conclusions to be drawn..</p>
+    <p>Bety is the creator of the project and developed the original concept and research questions behind it. She designed the survey instruments and is deeply involved in the analysis and interpretation of the collected data. Her work focuses on ensuring that the research methods effectively capture the complexities of the academic and professional trajectories studied, enabling meaningful conclusions to be drawn.</p>
   </div>
   <div style="text-align: center; width: 30%;">
     <img src="assets/images/IMG_20200112_212532.jpg" alt="Author 2" style="width: 100%; border-radius: 8px;" />
