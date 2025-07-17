@@ -4,9 +4,7 @@ title: About us
 permalink: /Aboutus/
 ---
 
-## About us
-
-Welcome to the team page! Here you can learn about the authors behind the project.
+## Welcome to the team page! Here you can learn about the authors behind the project.
 
 <div style="display: flex; justify-content: space-around; margin-top: 30px;">
   <div style="text-align: center; width: 30%;">
