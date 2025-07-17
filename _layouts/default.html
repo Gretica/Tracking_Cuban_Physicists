@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>{{ page.title | default: "Scattering Cimarrón-Tracking Cuban Physicists" }}</title>
+  <title>{{ page.title | default: "Scattering Cimarrón – Tracking Cuban Physicists" }}</title>
   <link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap" rel="stylesheet">
   <style>
     body {
@@ -45,12 +45,20 @@
       max-width: 900px;
     }
 
-    .site-title {
-      font-size: 2.8em;
+    .site-header {
+      margin-bottom: 40px;
+    }
+
+    .project-title {
+      font-size: 2.6em;
       font-weight: bold;
-      margin-bottom: 30px;
-      border-bottom: 2px solid #ccc;
-      padding-bottom: 10px;
+      margin: 0;
+    }
+
+    .project-subtitle {
+      font-size: 1.3em;
+      color: #004466;
+      margin-top: 5px;
     }
 
     h1, h2, h3 {
@@ -69,15 +77,20 @@
 <body>
   <nav>
     <a href="{{ '/' | relative_url }}">Home</a>
-    <a href="{{ '/analysis' | relative_url }}">Promotions from 2010 to 2024</a>
-    <a href="{{ '/who-we-are' | relative_url }}">Aboutus</a>
+    <a href="{{ '/analysis' | relative_url }}">2010–2024 Analysis</a>
+    <a href="{{ '/who-we-are' | relative_url }}">Who We Are</a>
   </nav>
 
   <main>
-    <div class="site-title">Scattering Cimarrón-Tracking Cuban Physicists</div>
+    <div class="site-header">
+      <div class="project-title">Scattering Cimarrón</div>
+      <div class="project-subtitle">Tracking Cuban Physicists</div>
+    </div>
+
     {{ content }}
+
     <footer>
-      &copy; 2025 Scattering Cimarrón-Tracking Cuban Physicists
+      &copy; 2024 Physics Career Paths Project
     </footer>
   </main>
 </body>
