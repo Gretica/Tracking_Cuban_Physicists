@@ -1,6 +1,7 @@
 ---
 layout: default
 title: About us
+permalink: /Aboutus/
 ---
 
 Welcome to the team page! Here you can learn about the authors behind the project.
