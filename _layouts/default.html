@@ -2,52 +2,81 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>{{ page.title }} | {{ site.title }}</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{{ page.title | default: "Physics Career Paths Project" }}</title>
   <style>
     body {
-      font-family: Arial, sans-serif;
-      margin: 40px;
-      background: #f9f9f9;
-      color: #333;
+      background-color: #f5f0e6; /* arena claro */
+      color: #003366;            /* azul oscuro */
+      font-family: Georgia, "Times New Roman", serif;
+      line-height: 1.6;
+      padding: 20px;
+      min-height: 100vh;
+      margin: 0;
     }
-    nav {
-      margin-bottom: 20px;
-      text-align: center;
-    }
-    nav a {
-      margin: 0 15px;
+
+    a {
+      color: #003366;
       text-decoration: none;
-      color: #2c3e50;
-      font-weight: bold;
     }
-    nav a:hover {
+
+    a:hover {
       text-decoration: underline;
     }
-    header {
-      text-align: center;
-      margin-bottom: 40px;
+
+    nav {
+      background-color: #e9dfc5;
+      padding: 10px 15px;
+      border-radius: 8px;
+      margin-bottom: 25px;
+      max-width: 900px;
     }
+
+    nav a {
+      font-weight: 600;
+      margin-right: 15px;
+      color: #003366;
+      font-family: Georgia, serif;
+    }
+
     section {
-      max-width: 800px;
+      background-color: #fffaf0;
+      padding: 25px;
+      border-radius: 10px;
+      max-width: 900px;
+      box-shadow: 0 3px 6px rgba(0,0,0,0.1);
+    }
+
+    header, footer {
+      max-width: 900px;
       margin: auto;
-      line-height: 1.6;
+    }
+
+    footer {
+      font-size: 0.9em;
+      color: #555;
+      padding: 15px 0;
+      text-align: center;
+      border-top: 1px solid #e9dfc5;
+      margin-top: 40px;
     }
   </style>
 </head>
 <body>
-  <nav>
-    <a href="{{ "/" | relative_url }}">Home</a>
-    <a href="{{ "/analysis" | relative_url }}">Promotions from 2010 to 2024</a>
-    <a href="{{ "/who-we-are" | relative_url }}">About us</a>
-  </nav>
-
   <header>
-    <h1>{{ page.title }}</h1>
+    <nav>
+      <a href="{{ '/' | relative_url }}">Home</a>
+      <a href="{{ '/analysis' | relative_url }}">Analysis of Promotions 2010-2024</a>
+      <a href="{{ '/who-we-are' | relative_url }}">Who We Are</a>
+    </nav>
   </header>
 
   <section>
     {{ content }}
   </section>
+
+  <footer>
+    &copy; 2024 Physics Career Paths Project
+  </footer>
 </body>
 </html>
