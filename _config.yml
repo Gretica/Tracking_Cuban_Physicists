@@ -1,4 +1,7 @@
-theme: Modernist
 title: Scattering Cimarron-Tracking Cuban Physicists
 baseurl: "" # dejar vacío si usas https://usuario.github.io/repositorio
 url: ""     # dejar vacío para desarrollo local
+
+remote_theme: pages-themes/midnight@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
