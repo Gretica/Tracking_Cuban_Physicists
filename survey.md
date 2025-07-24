@@ -5,5 +5,5 @@ title: Survey
 
 # Survey
 
-This setion will be dedicated to the survey of Cuban physicists.
+This section will be dedicated to the survey of Cuban physicists.  
 You will soon find the form or link to participate here.
