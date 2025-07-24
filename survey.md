@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Survey
+permalink: /survey/
 ---
 
 # Survey
