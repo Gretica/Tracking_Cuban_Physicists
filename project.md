@@ -8,15 +8,15 @@ permalink: /Project/
 
 ## Project Overview
 
-The Faculty of Physics at the University of Havana traces its origins back to the 1962 University Reform, which led to the creation of the School of Physics as part of the Faculty of Sciences. This marked a turning point, granting Physics recognition as an independent academic discipline, distinct from the previously unified specialties of Physical-Mathematical and Physical-Chemical Sciences, which had been present in the university’s curriculum since the early 20th century.
+The **Faculty of Physics** at the **University of Havana** traces its origins back to the **1962 University Reform**, which led to the creation of the School of Physics as part of the Faculty of Sciences. This marked a turning point, granting Physics recognition as an **independent academic discipline**, distinct from the previously unified specialties of Physical-Mathematical and Physical-Chemical Sciences, which had been present in the university’s curriculum since the early 20th century.
 
-In 1984, the School of Physics was elevated to the rank of Faculty, establishing itself as a national reference in scientific training. Over the past 60 years, it has produced hundreds of graduates who have contributed to the field both in Cuba and abroad, through diverse career paths that reflect rich and complex personal and professional trajectories.
+In **1984**, the School of Physics was elevated to the rank of Faculty, establishing itself as a national reference in scientific training. Over the past 60 years, it has produced hundreds of graduates who have contributed to the field both in Cuba and abroad, through diverse career paths that reflect rich and complex personal and professional trajectories.
 
-However, the development of physics education in Cuba is not limited to Havana. In parallel, significant advances took place at the University of Oriente, where the foundations for a School of Physics were laid in 1967, with support from Soviet physicists and graduates from the University of Havana. This initiative culminated in 1970 with the graduation of the first group of physics engineers, who became part of the School’s academic staff.
+However, the development of physics education in Cuba is not limited to Havana. In parallel, significant advances took place at the **University of Oriente**, where the foundations for a School of Physics were laid in **1967**, with support from Soviet physicists and graduates from the University of Havana. This initiative culminated in **1970** with the graduation of the first group of physics engineers, who became part of the School’s academic staff.
 
-At the Central University “Marta Abreu” of Las Villas, the Physics degree program began in 1959 as part of the newly founded Faculty of Sciences. This program evolved within various faculty structures, ultimately becoming part of the current Faculty of Mathematics, Physics, and Computer Science in 1988.
+At the **Central University “Marta Abreu” of Las Villas**, the Physics degree program began in **1959** as part of the newly founded Faculty of Sciences. This program evolved within various faculty structures, ultimately becoming part of the current Faculty of Mathematics, Physics, and Computer Science in **1988**.
 
-Furthermore, in 1987, the Institute of Higher Nuclear Sciences and Technologies (ISCTN) was founded, offering internationally recognized curricula and preparing highly qualified professionals in Nuclear Physics, Radiochemistry, and Nuclear Engineering.
+Furthermore, in **1987**, the **Institute of Higher Nuclear Sciences and Technologies (INSTEC)** was founded, offering internationally recognized curricula and preparing highly qualified professionals in Nuclear Physics, Radiochemistry, and Nuclear Engineering.
 
 Over time, some alumni of these institutions have remained in academia, while others have transitioned into different sectors, taking their training to new contexts. Understanding these diverse journeys — and what drives them — is the central aim of this research project.
 
