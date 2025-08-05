@@ -35,10 +35,10 @@ We do **not** collect personal identifiers (such as full names, IP addresses, or
 
 The data will be used solely for academic and analytical purposes within the scope of this project. Aggregated results and anonymized narratives may be included in reports, visualizations, or publications — but never in a way that could identify individual participants.
 
-If you have questions about data handling or would like your contribution removed at any point, please contact the research team at: [email address]
+If you have questions about data handling or would like your contribution removed at any point, please contact the research team at: [scatteringcimarron@gmail.com]
 
 ---
 
-**Thank you for contributing to this collective reflection on the past, present, and future of Physics graduates in Cuba.**
+**Thank you for contributing to this collective reflection on the past, present, and future of Cuban Physicists.**
 
 **Gracias por formar parte de esta historia.**
