@@ -18,7 +18,9 @@ At the **Central University “Marta Abreu” of Las Villas**, the Physics degre
 
 Furthermore, in **1987**, the **Institute of Higher Nuclear Sciences and Technologies (INSTEC)** was founded, offering internationally recognized curricula and preparing highly qualified professionals in Nuclear Physics, Radiochemistry, and Nuclear Engineering.
 
-Over time, some alumni of these institutions have remained in academia, while others have transitioned into different sectors, taking their training to new contexts. Understanding these diverse journeys — and what drives them — is the central aim of this research project.
+To those physicists who graduated in Cuba, we must add another key group: Beginning in the early **1960s**, many Cuban students pursued studies at universities in the **Soviet Union** and other countries of the **former socialist bloc**. Upon their return, these graduates became part of the **first generations of professors** at the newly founded physics faculties throughout the country. Their international education and expertise played a pivotal role in shaping Cuba’s scientific and academic landscape during a formative era.
+
+Over time, some Cuban physicists have remained in academia, while others have transitioned into different sectors, taking their training to new contexts. Understanding these diverse journeys — and what drives them — is the central aim of this research project.
 
 ---
 
