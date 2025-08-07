@@ -12,8 +12,7 @@ Any other trajectory — slower, faster, with breaks, changes of direction, or o
 
 Rarely is the diversity of career paths after completing a Bachelor's degree in Physics documented, recognized, or made visible.  
 
-**What do we aim for with this survey?**  
-To shed light on the many possible paths Cuban physicists have followed after graduation. Not to judge or compare, but to understand, learn from, and narrate this diversity.
+**What do we aim for with this survey?** To shed light on the many possible paths Cuban physicists have followed after graduation. Not to judge or compare, but to understand, learn from, and narrate this diversity.
 
 This is a collective, initial, and flexible attempt. Your responses — simple or complex — are always very valuable.
 
