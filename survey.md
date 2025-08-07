@@ -6,24 +6,17 @@ permalink: /survey/
 
 # Survey
 
-**Why This Survey?**
-
 For a long time, there has been a rather rigid idea of what the ideal academic career path for someone who studied physics should look like:  
 **Graduate → complete a master's degree → earn a PhD → do one or two postdocs → secure a permanent position as a researcher or professor.**
 
-Any other trajectory — slower, faster, with breaks, changes of direction, or outside academia — is often seen as "a deviation." But in practice, many of us:
-
-- Have changed fields, countries, or languages.  
-- Have taken breaks for personal reasons (children, health, migration).  
-- Have left academia or entered it later.  
-- Have worked as technicians, teachers, programmers, entrepreneurs, translators, science communicators, caregivers, freelancers...  
+Any other trajectory — slower, faster, with breaks, changes of direction, or outside academia — is often seen as "a deviation." But in practice, many of us: Have changed fields, countries, or languages; have taken breaks for personal reasons (children, health, migration); have left academia or entered it later; have worked as technicians, teachers, programmers, entrepreneurs, translators, science communicators, caregivers, freelancers...  
 
 Rarely is the diversity of career paths after completing a Bachelor's degree in Physics documented, recognized, or made visible.  
 
 **What do we aim for with this survey?**  
 To shed light on the many possible paths Cuban physicists have followed after graduation. Not to judge or compare, but to understand, learn from, and narrate this diversity.
 
-This is a collective, initial, and flexible attempt. Your responses — simple or complex — are very valuable.
+This is a collective, initial, and flexible attempt. Your responses — simple or complex — are always very valuable.
 
 ---
 
