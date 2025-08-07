@@ -6,8 +6,7 @@ permalink: /survey/
 
 # Survey
 
-For a long time, there has been a rather rigid idea of what the ideal academic career path for someone who studied physics should look like:  
-**Graduate → complete a master's degree → earn a PhD → do one or two postdocs → secure a permanent position as a researcher or professor.**
+For a long time, there has been a rather rigid idea of what the ideal academic career path for someone who studied physics should look like: **Graduate → complete a master's degree → earn a PhD → do one or two postdocs → secure a permanent position as a researcher or professor.**
 
 Any other trajectory — slower, faster, with breaks, changes of direction, or outside academia — is often seen as "a deviation." But in practice, many of us: Have changed fields, countries, or languages; have taken breaks for personal reasons (children, health, migration); have left academia or entered it later; have worked as technicians, teachers, programmers, entrepreneurs, translators, science communicators, caregivers, freelancers...  
 
