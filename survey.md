@@ -4,6 +4,8 @@ title: Survey
 permalink: /survey/
 ---
 
+> ⚠️ Disclaimer: This survey is still a work in progress. Once it is finalized, we will notify everyone who wishes to participate. Your feedback will be invaluable in documenting the diverse career paths of Cuban physicists.
+
 # Survey
 
 For a long time, there has been a rather rigid idea of what the ideal academic career path for someone who studied physics should look like: **Graduate → complete a master's degree → earn a PhD → do one or two postdocs → secure a permanent position as a researcher or professor.**
