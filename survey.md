@@ -8,7 +8,7 @@ permalink: /survey/
 
 For a long time, there has been a rather rigid idea of what the ideal academic career path for someone who studied physics should look like: **Graduate → complete a master's degree → earn a PhD → do one or two postdocs → secure a permanent position as a researcher or professor.**
 
-Any other trajectory — slower, faster, with breaks, changes of direction, or outside academia — is often seen as "a deviation." But in practice, many of us: Have changed fields, countries, or languages; have taken breaks for personal reasons (children, health, migration); have left academia or entered it later; have worked as technicians, teachers, programmers, entrepreneurs, translators, science communicators, caregivers, freelancers...  
+Any other trajectory — slower, faster, with breaks, changes of direction, or outside academia — is often seen as "a deviation." But in practice, many of us have changed fields, countries, or languages; have taken breaks for personal reasons (children, health, migration); have left academia or entered it later; have worked as technicians, teachers, programmers, entrepreneurs, translators, science communicators, caregivers, freelancers...  
 
 Rarely is the diversity of career paths after completing a Bachelor's degree in Physics documented, recognized, or made visible.  
 
@@ -26,7 +26,7 @@ We do **not** collect personal identifiers (such as full names, IP addresses, or
 
 The data will be used solely for academic and analytical purposes within the scope of this project. Aggregated results and anonymized narratives may be included in reports, visualizations, or publications — but never in a way that could identify individual participants.
 
-If you have questions about data handling or would like your contribution removed at any point, please contact the research team at: [scatteringcimarron@gmail.com]
+If you have questions about data handling or would like your contribution removed at any point, please contact the research team at: [scatteringcimarron@gmail.com](mailto:scatteringcimarron@gmail.com)
 
 ---
 
