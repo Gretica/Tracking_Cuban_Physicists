@@ -10,11 +10,11 @@ permalink: /Project/
 
 The **Faculty of Physics** at the **University of Havana** traces its origins back to the **1962 University Reform**, which led to the creation of the School of Physics as part of the Faculty of Sciences. This marked a turning point, granting Physics recognition as an **independent academic discipline**, distinct from the previously unified specialties of Physical-Mathematical and Physical-Chemical Sciences, which had been present in the university’s curriculum since the early 20th century. In **1984**, the School of Physics was elevated to the rank of Faculty, establishing itself as a national reference in scientific training. 
 
-Nevertheless, the development of physics education in Cuba is not limited to the University Havana. In **1967** the foundations for a School of Physics were laid at the **University of Oriente**, while at the **Central University “Marta Abreu” of Las Villas**, the Physics degree program began in **1959** as part of the newly founded Faculty of Sciences, and evolved within various faculty structures, ultimately becoming part of the current Faculty of Mathematics, Physics, and Computer Science in **1988**. Later on, in **1987**, the **Institute of Higher Nuclear Sciences and Technologies (INSTEC)** was founded, offering curricula in Nuclear Physics, Radiochemistry, and Nuclear Engineering.
+Nevertheless, the development of physics education in Cuba is not limited to the University Havana. In **1967** the foundations for a School of Physics were laid at the **University of Oriente**, while at the **Central University “Marta Abreu” of Las Villas**, the Physics degree program began in **1959** as part of the newly founded Faculty of Sciences, and evolved within various faculty structures, ultimately becoming part of the current Faculty of Mathematics, Physics, and Computer Science in **1988**. In **1987**, the **Institute of Higher Nuclear Sciences and Technologies (INSTEC)** was founded, offering curricula in Nuclear Physics, Radiochemistry, and Nuclear Engineering.
 
 Over the past 60 years, those institutions has produced hundreds of graduates. To them we must add another key group: the one formed by the Cuban students that, beginning in the early **1960s**, pursued studies at universities in the **Soviet Union** and other countries of the **former socialist bloc**. Upon their return, these graduates became part of the **first generations of professors** at the newly founded physics faculties throughout the country, playing a pivotal role in shaping Cuba’s scientific and academic landscape during a formative era.
 
-Over time, some Cuban physicists have remained in academia, while others have transitioned into different sectors, taking their training to new contexts. Understanding these diverse journeys — and what drives them — is the central aim of this research project.
+Over time, some Cuban physicists have remained in academia, while others have transitioned into different sectors, taking their training to new contexts. Understanding these diverse journeys — and what drives them — is the central aim of this project.
 
 ---
 
@@ -52,11 +52,9 @@ The relatively small number of Cuban physicists and its defined graduation perio
 
 ## **Preliminary Results: Promotions from 2010 to 2024**
 
-Our initial data collection has focused on graduates from the Faculty of Physics at the University of Havana between **2010 to 2024**, using information gathered from **professional and social networks**. While this data is still being refined, it already reveals notable diversity in career paths and migration patterns.
+Our initial data collection has focused on graduates from the Faculty of Physics at the University of Havana between **2010 to 2024**, using information gathered from **professional and social networks**. While this data is not exhaustive, it already reveals notable diversity in career paths and migration patterns.
 
 These preliminary results offer a **first glimpse** of the project's potential to document and analyze the real-life implications of studying Physics in Cuba.
 
 To explore these early findings in detail, visit the <a href="{{ site.baseurl }}/Promo_2010_2024/">FF-UH Promotions 2010–2024</a> page.
-
-This early sample will serve as a **foundation for comparison** as more cohorts are incorporated, and as interviews and surveys deepen our understanding of how **identity, gender, and context** shape long-term professional outcomes.
 
