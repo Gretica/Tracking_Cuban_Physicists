@@ -52,7 +52,7 @@ The relatively small number of Cuban physicists and its defined graduation perio
 
 ## **Preliminary Results: Promotions from 2010 to 2024**
 
-Our initial data collection has focused on graduates from the Faculty of Physics at the University of Havana between **2010 to 2024**, using information gathered from **professional and social networks**. While this data is not exhaustive, it already reveals notable diversity in career paths and migration patterns.
+Our initial data collection has focused on graduates from the Faculty of Physics at the University of Havana between **2010 to 2024**, using information gathered from the **Book of Graduates** of the University of Havana and **professional and social networks**. While this data is not exhaustive, it already reveals notable diversity in career paths and migration patterns. 
 
 These preliminary results offer a **first glimpse** of the project's potential to document and analyze the real-life implications of studying Physics in Cuba.
 
