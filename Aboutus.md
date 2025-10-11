@@ -16,7 +16,7 @@ Get to know the people driving the vision, research, and development of this ini
   margin-top: 40px; 
   gap: 40px;
 ">
-  <div style="text-align: justify; flex: 1 1 300px; max-width: 350px;">
+  <div style="text-align: justify; flex: 1 1 300px; max-width: 300px;">
     <img 
       src="{{ site.baseurl }}/assets/images/IMG_Bety.jpg" 
       alt="Author 1" 
@@ -35,7 +35,7 @@ Get to know the people driving the vision, research, and development of this ini
     </p>
   </div>
 
-  <div style="text-align: justify; flex: 1 1 300px; max-width: 350px;">
+  <div style="text-align: justify; flex: 1 1 300px; max-width: 300px;">
     <img 
       src="{{ site.baseurl }}/assets/images/20250124_144716.jpg" 
       alt="Author 2" 
@@ -54,7 +54,7 @@ Get to know the people driving the vision, research, and development of this ini
     </p>
   </div>
 
-  <div style="text-align: justify; flex: 1 1 300px; max-width: 350px;">
+  <div style="text-align: justify; flex: 1 1 300px; max-width: 300px;">
     <img 
       src="{{ site.baseurl }}/assets/images/du.jpg" 
       alt="Author 3" 
