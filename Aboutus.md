@@ -25,7 +25,7 @@ Get to know the people driving the vision, research, and development of this ini
       src="{{ site.baseurl }}/assets/images/IMG_Bety.jpg" 
       alt="Author 1" 
       style="
-        width: 100%; 
+        width: 50%; 
         height: auto; 
         border-radius: 10px; 
         box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -47,7 +47,7 @@ Get to know the people driving the vision, research, and development of this ini
       src="{{ site.baseurl }}/assets/images/20250124_144716.jpg" 
       alt="Author 2" 
       style="
-        width: 100%; 
+        width: 50%; 
         height: auto; 
         border-radius: 10px; 
         box-shadow: 0 4px 10px rgba(0,0,0,0.1);
@@ -69,7 +69,7 @@ Get to know the people driving the vision, research, and development of this ini
       src="{{ site.baseurl }}/assets/images/du.jpg" 
       alt="Author 3" 
       style="
-        width: 100%; 
+        width: 50%; 
         height: auto; 
         border-radius: 10px; 
         box-shadow: 0 4px 10px rgba(0,0,0,0.1);
