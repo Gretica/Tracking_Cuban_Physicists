@@ -29,7 +29,7 @@ Get to know the people driving the vision, research, and development of this ini
         height: auto; 
         border-radius: 10px; 
         box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        margin-bottom: 15px;
+        margin-bottom: 35px;
       " 
     />
     <h3 style="text-align: center; margin-top: 10px;">Beatriz Rodríguez Hernández</h3>
