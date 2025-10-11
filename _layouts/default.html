@@ -4,84 +4,160 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>{{ page.title | default: "Scattering Cimarrón – Tracking Cuban Physicists" }}</title>
-  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=PT+Serif:wght@400;700&family=Open+Sans:wght@400;600&display=swap" rel="stylesheet">
+
   <style>
+    :root {
+      --bg-color: #fdfaf3;
+      --text-color: #111;
+      --accent-color: #a45b3c;
+      --nav-bg: #e8e8e8;
+      --shadow: rgba(0, 0, 0, 0.1);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
     body {
-      background-color: #fdfaf3; /* blanco hueso */
-      color: #000000;           /* texto normal en negro */
-      font-family: 'PT Serif', serif;
       margin: 0;
+      font-family: 'Open Sans', sans-serif;
+      color: var(--text-color);
+      background-color: var(--bg-color);
       display: flex;
+      flex-direction: column;
       min-height: 100vh;
     }
 
+    /* --- NAVIGATION --- */
     nav {
-      width: 200px;
-      background-color: #e2e2e2; /* gris claro */
-      padding: 40px 20px;
-      box-sizing: border-box;
+      background-color: var(--nav-bg);
+      padding: 20px;
       position: fixed;
       top: 0;
-      bottom: 0;
       left: 0;
+      bottom: 0;
+      width: 230px;
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+      transition: transform 0.3s ease;
+      box-shadow: 2px 0 8px var(--shadow);
     }
 
     nav a {
-      display: block;
-      color: #000000;
       text-decoration: none;
-      margin-bottom: 20px;
-      font-weight: bold;
-      font-size: 1.1em;
+      color: var(--text-color);
+      font-weight: 600;
+      margin: 10px 0;
+      font-size: 1.05em;
+      transition: color 0.3s;
     }
 
     nav a:hover {
-      text-decoration: underline;
+      color: var(--accent-color);
     }
 
+    /* --- MAIN CONTENT --- */
     main {
-      margin-left: 220px;
-      padding: 40px 30px;
+      margin-left: 250px;
+      padding: 50px 30px;
       max-width: 900px;
-      text-align: justify;
     }
 
     .site-header {
       margin-bottom: 40px;
+      border-bottom: 2px solid var(--accent-color);
+      padding-bottom: 10px;
     }
 
     .project-title {
-      font-size: 2.6em;
+      font-family: 'PT Serif', serif;
+      font-size: 2.4em;
       font-weight: bold;
+      color: #222;
       margin: 0;
-      color: #333333; /* gris oscuro */
     }
 
     .project-subtitle {
-      font-size: 1.3em;
-      color: #555555; /* un gris más claro */
+      font-family: 'Open Sans', sans-serif;
+      font-size: 1.2em;
+      color: #666;
       margin-top: 5px;
     }
 
     h1, h2, h3 {
       font-family: 'PT Serif', serif;
-      color: #333333; /* títulos en gris oscuro */
+      color: #333;
     }
 
     footer {
       text-align: center;
       margin-top: 60px;
+      padding: 20px 0;
       font-size: 0.9em;
-      color: #666666;
+      color: #666;
+      border-top: 1px solid #ddd;
     }
-</style>
+
+    /* --- MOBILE STYLES --- */
+    @media (max-width: 900px) {
+      nav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        height: 100%;
+        width: 220px;
+        transform: translateX(-100%);
+        z-index: 1000;
+      }
+
+      nav.open {
+        transform: translateX(0);
+      }
+
+      .menu-toggle {
+        position: fixed;
+        top: 15px;
+        left: 15px;
+        background-color: var(--accent-color);
+        color: #fff;
+        border: none;
+        font-size: 1.4em;
+        padding: 8px 12px;
+        border-radius: 6px;
+        box-shadow: 0 2px 5px var(--shadow);
+        cursor: pointer;
+        z-index: 1100;
+      }
+
+      main {
+        margin-left: 0;
+        padding: 80px 20px;
+      }
+
+      .site-header {
+        text-align: center;
+      }
+
+      footer {
+        margin-top: 40px;
+      }
+    }
+  </style>
 </head>
+
 <body>
+  <!-- Botón menú móvil -->
+  <button class="menu-toggle" onclick="document.querySelector('nav').classList.toggle('open')">
+    ☰
+  </button>
+
   <nav>
     <a href="{{ site.baseurl }}/">Home</a>
-     <a href="{{ site.baseurl }}/Project/">Project Overview</a>
+    <a href="{{ site.baseurl }}/Project/">Project Overview</a>
     <a href="{{ site.baseurl }}/Promo_2010_2024/">FF–UH 2010–2024</a>
-     <a href="{{ site.baseurl }}/survey/">Survey</a>
+    <a href="{{ site.baseurl }}/survey/">Survey</a>
     <a href="{{ site.baseurl }}/Aboutus/">About Us</a>
   </nav>
 
@@ -97,5 +173,16 @@
       &copy; 2025 Scattering Cimarrón
     </footer>
   </main>
+
+  <script>
+    // Cierra el menú al hacer clic fuera en móviles
+    document.addEventListener('click', e => {
+      const nav = document.querySelector('nav');
+      const toggle = document.querySelector('.menu-toggle');
+      if (!nav.contains(e.target) && !toggle.contains(e.target)) {
+        nav.classList.remove('open');
+      }
+    });
+  </script>
 </body>
 </html>
