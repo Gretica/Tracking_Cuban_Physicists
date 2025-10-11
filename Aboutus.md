@@ -16,20 +16,17 @@ Get to know the people driving the vision, research, and development of this ini
   margin-top: 40px; 
   gap: 40px;
 ">
-  <div style="
-    text-align: justify; 
-    flex: 1 1 300px; 
-    max-width: 350px;
-  ">
+  <div style="text-align: justify; flex: 1 1 300px; max-width: 350px;">
     <img 
       src="{{ site.baseurl }}/assets/images/IMG_Bety.jpg" 
       alt="Author 1" 
       style="
         width: 50%; 
         height: auto; 
+        display: block;
+        margin: 0 auto 15px auto;
         border-radius: 10px; 
         box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        margin-bottom: 55px;
       " 
     />
     <h3 style="text-align: center; margin-top: 10px;">Beatriz Rodríguez Hernández</h3>
@@ -38,20 +35,17 @@ Get to know the people driving the vision, research, and development of this ini
     </p>
   </div>
 
-  <div style="
-    text-align: justify; 
-    flex: 1 1 300px; 
-    max-width: 350px;
-  ">
+  <div style="text-align: justify; flex: 1 1 300px; max-width: 350px;">
     <img 
       src="{{ site.baseurl }}/assets/images/20250124_144716.jpg" 
       alt="Author 2" 
       style="
         width: 50%; 
         height: auto; 
+        display: block;
+        margin: 0 auto 15px auto;
         border-radius: 10px; 
         box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        margin-bottom: 15px;
       " 
     />
     <h3 style="text-align: center; margin-top: 10px;">Gretel Quintero Angulo</h3>
@@ -60,20 +54,17 @@ Get to know the people driving the vision, research, and development of this ini
     </p>
   </div>
 
-  <div style="
-    text-align: justify; 
-    flex: 1 1 300px; 
-    max-width: 350px;
-  ">
+  <div style="text-align: justify; flex: 1 1 300px; max-width: 350px;">
     <img 
       src="{{ site.baseurl }}/assets/images/du.jpg" 
       alt="Author 3" 
       style="
         width: 50%; 
         height: auto; 
+        display: block;
+        margin: 0 auto 15px auto;
         border-radius: 10px; 
         box-shadow: 0 4px 10px rgba(0,0,0,0.1);
-        margin-bottom: 15px;
       " 
     />
     <h3 style="text-align: center; margin-top: 10px;">Duvier Suárez Fontanella</h3>
@@ -82,5 +73,3 @@ Get to know the people driving the vision, research, and development of this ini
     </p>
   </div>
 </div>
-
-
