@@ -267,17 +267,17 @@ permalink: /Aboutus/
     },
     "bio-gretel": {
       name: "Gretel Quintero Angulo",
-      role: "Project Coordination · Communication",
+      role: "Project Coordination · Data Analysis",
       photo: "{{ site.baseurl }}/assets/images/20250124_144716.jpg",
       email: "gretel@example.com",
-      text: `<p><strong>Gretel</strong> plays a key role in organizing the project’s structure and online communication. She ensures the research outcomes are effectively shared and accessible, shaping the presentation and public visibility of the project.</p>`
+      text: `<p><strong>Gretel</strong> coordinates the project’s structure and workflow. Her work includes data collection and analysis, preparation and presentation of research results, and the technical and content development of the project’s website. She also contributes to the project’s design to ensure its outcomes are coherent, engaging, and accessible.</p>`
     },
     "bio-du": {
       name: "Duvier Suárez Fontanella",
       role: "Technical Lead · Data Engineering",
       photo: "{{ site.baseurl }}/assets/images/du.jpg",
       email: "duvier@example.com",
-      text: `<p><strong>Duvier</strong> leads the technical aspects of the project, focusing on data processing, metrics, and visualization strategies. His expertise ensures that data analysis is rigorous and accessible, transforming complex information into clear, actionable insights.</p>`
+      text: `<p><strong>Duvier</strong> leads the technical aspects of the project, focusing on data processing, metrics, website deveplopment and visualization strategies. His expertise ensures that data analysis is rigorous and accessible, transforming complex information into clear, actionable insights.</p>`
     }
   };
 
