@@ -197,7 +197,7 @@ permalink: /Aboutus/
     <h3>Gretel Quintero Angulo</h3>
     <div class="role">Project Coordination · Data Analysis</div>
     <p class="summary">
-      Gretel coordinates the project’s workflow and contributes to its data, results, and website development.
+      Gretel coordinates the project’s structure and workflow, contributing to data analysis, results presentation, and the technical, content, and design development of the project’s website.
     </p>
 
     <div class="actions">
