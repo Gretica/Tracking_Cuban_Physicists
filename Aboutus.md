@@ -195,9 +195,9 @@ permalink: /Aboutus/
       <img src="{{ site.baseurl }}/assets/images/20250124_144716.jpg" alt="Gretel Quintero Angulo">
     </div>
     <h3>Gretel Quintero Angulo</h3>
-    <div class="role">Project Coordination · Communication</div>
+    <div class="role">Project Coordination · Data Analysis</div>
     <p class="summary">
-      Gretel organizes the project’s structure and online presence, ensuring its goals and findings are accessible to a wide audience.
+      Gretel coordinates the project’s workflow and contributes to its data, results, and website development.
     </p>
 
     <div class="actions">
